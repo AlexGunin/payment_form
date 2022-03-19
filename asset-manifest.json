@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/payment_form/static/css/main.0d0fe6d5.css",
+    "main.js": "/payment_form/static/js/main.acc04ee6.js",
+    "index.html": "/payment_form/index.html",
+    "main.0d0fe6d5.css.map": "/payment_form/static/css/main.0d0fe6d5.css.map",
+    "main.acc04ee6.js.map": "/payment_form/static/js/main.acc04ee6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d0fe6d5.css",
+    "static/js/main.acc04ee6.js"
+  ]
+}
