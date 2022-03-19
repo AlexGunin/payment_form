@@ -18,7 +18,7 @@ app.use('/', formRouter);
 
 const start = async () => {
   try {
-    await mongoose.connect('mongodb+srv://alex:JavaS2358@payment.ia6ca.mongodb.net/myFirstDatabase?retryWrites=true&w=majority');
+    // await mongoose.connect(paste your link);
     app.listen(PORT);
   } catch (err) {
     console.log(err);
